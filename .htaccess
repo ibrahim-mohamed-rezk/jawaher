@@ -1,5 +1,0 @@
-AddType text/css .css
-
-<Files "main.css">
-  ForceType text/css
-</Files>
